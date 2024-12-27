@@ -134,4 +134,4 @@ Both projects are licensed under the MIT License - see the [LICENSE](LICENSE) fi
 
 ---
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by ghost
